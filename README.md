@@ -11,7 +11,7 @@
 
 
 
-- 💪🏼 Working on [Insta post Generator]()
+- 💪🏼 Working on [Fanta-mockup-website](https://github.com/anshurauniyar17/fanta-mockup-website)
 
 - 🌱 I’m currently learning **Reactjs & Nextjs**
 
