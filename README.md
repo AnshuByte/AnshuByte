@@ -37,3 +37,4 @@
 
 <img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshurauniyar17&theme=dark&hide_border=false" alt="profile-radme-generator" />
 
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/aayushchouhan24/aayushchouhan24@output/github-contribution-grid-snake-dark.svg" />
