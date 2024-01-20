@@ -11,7 +11,7 @@
 
 
 
-- 💪🏼 Working on [Fanta-mockup-website](https://github.com/anshurauniyar17/fanta-mockup-website)
+- 💪🏼 Working on [Fanta-mockup-website](https://github.com/AnshuByte/fanta-mockup-website)
 
 - 🌱 I’m currently learning **Reactjs & Nextjs**
 
@@ -27,15 +27,15 @@
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=anshurauniyar17&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api?username=AnshuByte&show_icons=true&theme=dark&locale=en&hide_border=false" alt="profile-radme-generator" />
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=anshurauniyar17&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
+<img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=AnshuByte&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
 
 
 
-<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshurauniyar17&theme=dark&hide_border=false" alt="profile-radme-generator" /> 
+<img align="left" height="auto" width={300} src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuByte&theme=dark&hide_border=false" alt="profile-radme-generator" /> 
 
 
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/aayushchouhan24/aayushchouhan24@output/github-contribution-grid-snake-dark.svg" />
