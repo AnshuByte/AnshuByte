@@ -11,7 +11,7 @@
 
 
 
-- 💪🏼 Working on [JS-2-layer-Chess](https://github.com/AnshuByte/JS-Chess)
+- 💪🏼 Working on [JS-2-Player-Chess](https://github.com/AnshuByte/JS-Chess)
 
 - 🌱 I’m currently learning **Reactjs & Nextjs**
 
