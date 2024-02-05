@@ -11,7 +11,7 @@
 
 
 
-- 💪🏼 Working on [JS-2-Player-Chess](https://github.com/AnshuByte/JS-Chess)
+- 💪🏼 Working on [Figma-clone](https://github.com/AnshuByte/Figma-clone)
 
 - 🌱 I’m currently learning **Reactjs & Nextjs**
 
