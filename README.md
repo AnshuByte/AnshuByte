@@ -11,7 +11,7 @@
 
 
 
-- 💪🏼 Working on [Figma-clone](https://github.com/AnshuByte/Figma-clone)
+- 💪🏼 Working on [JS project](https://github.com/AnshuByte?tab=repositories)
 
 - 🌱 I’m currently learning **Reactjs & Nextjs**
 
