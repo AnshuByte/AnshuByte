@@ -32,10 +32,7 @@
 
 <br clear="both"/><br/>
 
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshuByte&theme=dark&mode=weekly&hide_border=false&locale=en" alt="streak-stats" style="margin-top: 20px;"/>
-</div>
-<br clear="both"/><br/><br/>
+br/>
 
 <!-- Snake Graph -->
 <img align="left" width="100%" src="https://cdn.jsdelivr.net/gh/aayushchouhan24/aayushchouhan24@output/github-contribution-grid-snake-dark.svg" style="margin-top: 20px;"/>
