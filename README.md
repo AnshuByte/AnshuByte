@@ -33,6 +33,7 @@
 
 <img align="left" height="auto" width={300} src="https://github-readme-streak-stats.herokuapp.com/?user=AnshuByte&theme=dark&mode=weekly&hide_border=false&locale=en" alt="profile-radme-generator" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuByte&hide=jupyter%20notebook)
 
 
 
